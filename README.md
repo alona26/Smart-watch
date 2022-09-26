@@ -20,12 +20,12 @@ It will change the clock display in terms of bases: base 12 with AM/PM or to bas
 
 ### Time Set :
 Adjust the values using the potentiometer.
-Press 2S to choose what we want to change the hours, minutes or seconds.
+Press 2S to choose what we want to change- the hours, minutes or seconds.
 A long press on 1S will save the time and return to the menu.
 
 ### Set Date:
 Adjust the values with the potentiometer.
-Press 2S to choose what we want to change the days or months.
+Press 2S to choose what we want to change- the days or months.
 A long press on 1S will save the date and return to the menu.
 
 ### Alarm :
@@ -34,7 +34,7 @@ With a long press on 1S we will return to the menu and an alarm clock icon will 
 To cancel the alarm clock, press 2S on the clock display (analog or digital).
 
 ### Themes :
-Choosing a theme - press 2S to change the themes.
+Choosing a theme - press 2S to change- the themes.
 A long press on 1S will save the theme and return to the menu.
 
 ### Exit :
